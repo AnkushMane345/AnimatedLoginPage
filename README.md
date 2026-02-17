@@ -5,11 +5,11 @@ This project is lightweight, responsive, and very easy to customize — especial
 
 Perfect for beginners learning UI design or for adding a stylish login page to any website.
 
-📸 Preview
+**📸 Preview**
 
 A transparent glass-style login card over a fullscreen background image with floating labels and password show/hide animation.
 
-🚀 Features
+**🚀 Features**
 
 🔮 Glassmorphism UI (blur background effect)
 
@@ -27,7 +27,7 @@ A transparent glass-style login card over a fullscreen background image with flo
 
 🎭 Uses Font Awesome / Icon fonts
 
-🛠 Technologies Used
+**🛠 Technologies Used**
 
 HTML5
 
