@@ -38,3 +38,29 @@ JavaScript (Inline Script)
 Google Fonts (Poppins)
 
 Font Awesome / Icon Fonts
+
+**🧩 Notes**
+
+No external CSS file required
+
+No build tools required
+
+Works offline
+
+Perfect for beginners
+
+**❤️ Ideal For**
+
+Student projects
+
+Portfolio login page
+
+Admin panel UI
+
+Practice animations
+
+Frontend beginners
+
+**📜 License**
+
+Free to use for personal and educational projects.
