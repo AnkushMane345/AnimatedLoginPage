@@ -1,4 +1,4 @@
-#✨ Animated Login Page
+**✨ Animated Login Page**
 
 A modern Glassmorphism Animated Login Form built using HTML + Inline CSS + Inline JavaScript.
 This project is lightweight, responsive, and very easy to customize — especially the background image.
