@@ -64,3 +64,7 @@ Frontend beginners
 **📜 License**
 
 Free to use for personal and educational projects.
+
+**Direct Link**
+
+https://github.com/AnkushMane345/AnimatedLoginPage
