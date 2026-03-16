@@ -42,6 +42,7 @@ Google Fonts (Poppins)
 
 Font Awesome / Icon Fonts
 
+---
 **🧩 Notes**
 
 No external CSS file required
