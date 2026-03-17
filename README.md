@@ -53,6 +53,7 @@ Works offline
 
 Perfect for beginners
 
+---
 **❤️ Ideal For**
 
 Student projects
